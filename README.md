@@ -88,7 +88,7 @@ check all the list of  <a href="https://github.com/d4az/School-Management-System
   <li> Dasith Vidanage - Develoer  (Author of this content ) <a href="https://d4az.github.io/">Website</a> </li>
 </ul>
 
-## Roadmap
+### Roadmap
 
 See the [open issues](https://github.com/d4az/School-Management-System//issues) for a list of proposed features (and known issues).
 
