@@ -38,7 +38,6 @@
 
 ![screenshot](https://github.com/d4az/School-Management-System/blob/main/demo/one.png)
 
-![screenshot](https://github.com/d4az/School-Management-System/blob/main/demo/login.png)
 
 This is a opensource school management system using C#. This application has a simple User interface, also this is Fast and easy to use for anyone. To find the documentation of this project please go to (https://github.com/d4az/School-Management-System)
 
