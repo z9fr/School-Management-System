@@ -61,7 +61,9 @@ In the payment section you have all the basic features like adding a payment and
 
 ### Installation
 
-You can Find the setup files in the  <a href="https://github.com/d4az/School-Management-System/releases/tag/1.0"> Here</a> and also you can download the setup files from website 
+You can Find the setup files in the  <a href="https://github.com/d4az/School-Management-System/releases/tag/1.0"> Here</a> and also you can download the setup files from <a href="https://d4az.github.io/images/schoolmanagementsystem/School%20Management%20System.zip"> Website </a>
+
+
 
 
 
