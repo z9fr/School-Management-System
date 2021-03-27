@@ -65,7 +65,9 @@ In the payment section you have all the basic features like adding a payment and
 
 ### Installation
 
-You can Find the setup files in the < add the place > and also you can download the setup files from website < helklhsdf >
+You can Find the setup files in the  <a href="https://github.com/d4az/School-Management-System/releases/tag/1.0"> Here</a> and also you can download the setup files from website 
+
+
 
 
 
