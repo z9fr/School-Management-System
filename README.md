@@ -44,11 +44,12 @@ This is a opensource school management system using C#. This application has a s
 ## About the Application
 
 In this application you can different tabs that you can go to in each of the tabs you can add remove or edit things related to that tab. Also, the software provides you the thing like search function, refresh, and logout.
+
 (The buttons for search refresh and logout can be seen in blue color in each section.)
+
 In the Dashboard section you can see the state of the school now, in this section you can see all the students, teachers, Departments and users that are currently registered in to the system and also you can see the total fees collected till now.
+
 In the payment section you have all the basic features like adding a payment and editing the payment. also, the system can print a receipt for the person who paid the amount. whenever you click on the payment you can get the receipt also when after a successful payment system will issue a receipt too.
-
-
 
 ### Technologies Used
 
