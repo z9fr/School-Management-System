@@ -100,4 +100,7 @@ Project Link: [https://github.com/d4az/School-Management-System/](/d4az/PortScan
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/d4az/School-Management-System/blob/main/LICENSE"> LICENSE</a> file for details
+
+
+
