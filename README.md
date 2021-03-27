@@ -23,7 +23,7 @@
     <a href="https://github.com/d4az/School-Management-System"><strong>Read Me »</strong></a>
     <br />
     <br />
-    <a href="yt link ">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=EOy39kwQE5A">View Demo</a>
     ·
     <a href="https://github.com/d4az/School-Management-System/issues">Report Bug</a>
     ·
