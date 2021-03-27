@@ -92,13 +92,13 @@ check all the list of  <a href="https://github.com/d4az/School-Management-System
 
 See the [open issues](https://github.com/d4az/School-Management-System//issues) for a list of proposed features (and known issues).
 
-## Contact
+### Contact
 
 Dasith Vidanage - [@dasith_vidanage](https://twitter.com/dasith_vidanage) - dasithvidanage000@gmail.com
 Project Link: [https://github.com/d4az/School-Management-System/](/d4az/PortScanner)
 
 
-## License
+### License
 
 This project is licensed under the MIT License - see the <a href="https://github.com/d4az/School-Management-System/blob/main/LICENSE"> LICENSE</a> file for details
 
