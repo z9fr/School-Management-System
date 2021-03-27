@@ -1,7 +1,7 @@
 <center>
 <a href="https://github.com/d4az/"><img src="https://img.shields.io/github/followers/d4az?style=social"> </a> 
-<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/stars/d4az/PortScanner?style=social"> </a> 
-<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/forks/d4az/PortScanner?style=social"> </a> 
+<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/stars/d4az/School-Management-System?style=social"> </a> 
+<a href="https://github.com/d4az/"><img src="https://img.shields.io/github/forks/d4az/School-Management-System?style=social"> </a> 
 <a href="https://twitter.com/dasith_vidanage"><img src="https://img.shields.io/twitter/follow/dasith_vidanage?style=social"> </a> 
 <a href="https://github.com/d4az/"><img src="https://img.shields.io/github/forks/d4az/School-Management-System?style=social"> </a> 
 <a href="https://www.linkedin.com/in/dasith-vidanage-055389187/"><img src="https://github.com/d4az/d4az/blob/main/imgs/linkedin.svg" alt="LinkedIn"></a>
