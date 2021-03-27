@@ -33,7 +33,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Porject 
+## About The Project 
 
 ![screenshot](https://github.com/d4az/School-Management-System/blob/main/demo/one.png)
 
