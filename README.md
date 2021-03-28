@@ -17,7 +17,7 @@
   <h3 align="center">School Management System</h3>
 
   <p align="center">
-  This is Open Source School Management System Using c#
+  This is Open Source School Management System Using C#
     <br />
     <a href="https://github.com/d4az/School-Management-System"><strong>Read Me »</strong></a>
     <br />
