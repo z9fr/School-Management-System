@@ -19,10 +19,6 @@ namespace CollageManagementSystem
         }
         SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\studentdatabase.mdf;Integrated Security=True");
         //update the department
-
-
-
-
         //fill department
 
         public void fulldep()
