@@ -38,7 +38,6 @@ namespace CollageManagementSystem
          
         }
 
-
         private void add_Click(object sender, EventArgs e)
         {
             if (feenum.Text == "" | stdid.Text == "" | stdname.Text == "" | period.Text == "" | Amount.Text == "")
