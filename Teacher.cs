@@ -13,6 +13,7 @@ namespace CollageManagementSystem
 {
     public partial class Teacher : Form
     {
+    
         public Teacher()
         {
             InitializeComponent();
