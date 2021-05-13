@@ -33,7 +33,6 @@ namespace CollageManagementSystem
 
         private void userid_OnValueChanged(object sender, EventArgs e)
         {
-
         }
 
         public void populate()
