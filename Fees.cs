@@ -19,6 +19,7 @@ namespace CollageManagementSystem
         }
         SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\studentdatabase.mdf;Integrated Security=True");
         //updating tables
+        
         public void updatetable()
         {
             con.Open();
