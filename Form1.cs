@@ -19,7 +19,6 @@ namespace CollageManagementSystem
         
         private void label2_Click(object sender, EventArgs e)
         {
-
         }
         int strtops = 0;
         private void timer1_Tick(object sender, EventArgs e)
