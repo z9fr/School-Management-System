@@ -85,6 +85,7 @@ namespace CollageManagementSystem
             // 
             // panel2
             // 
+            
             this.panel2.AutoScroll = true;
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(161)))), ((int)(((byte)(242)))));
             this.panel2.Controls.Add(this.label2);
