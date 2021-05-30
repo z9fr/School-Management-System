@@ -25,6 +25,7 @@ namespace CollageManagementSystem
             themainform.Show();
             this.Hide();
         }
+        
 
         private void closebtn_Click(object sender, EventArgs e)
         {
