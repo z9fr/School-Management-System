@@ -15,6 +15,7 @@ namespace CollageManagementSystem
     {
         public Fees()
         {
+        
             InitializeComponent();
         }
         SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\studentdatabase.mdf;Integrated Security=True");
