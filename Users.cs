@@ -17,7 +17,6 @@ namespace CollageManagementSystem
         {
             InitializeComponent();
         }
-
         SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\studentdatabase.mdf;Integrated Security=True");
         private void home_Click(object sender, EventArgs e)
         {
